@@ -1,4 +1,4 @@
-TokyoUniversityCreativeInformatics
+TodaiCreativeInformatics
 ==================================
 
 My answers for the programming part of the entrance exams at graduate school of Tokyo University.
